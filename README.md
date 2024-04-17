@@ -1,3 +1,5 @@
+https://colab.research.google.com/drive/1AIvRwl_Xl-ORmEWtzsvR2wfbdNcIGLkR?usp=sharing
+
 u should submit the answer as:
 
 customer_id	churn
